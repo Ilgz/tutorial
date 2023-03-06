@@ -1,1 +1,4 @@
 Hello it is dev branch  and we are able to edit it and delete it!
+abstract class AuthFacade{
+void signUp(){}
+}
